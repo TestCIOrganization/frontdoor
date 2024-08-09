@@ -1,1 +1,1 @@
-# Trigger for new PR
+# Trigger workflow for new PR
